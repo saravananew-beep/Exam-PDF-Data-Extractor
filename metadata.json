@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Exam Table Converter",
+  "description": "Extract structured exam data from PDF files including student names, register numbers, and subject details using AI-powered OCR.",
+  "requestFramePermissions": []
+}
